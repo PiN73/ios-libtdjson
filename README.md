@@ -8,6 +8,7 @@
 
 | pod   | tdlib |
 | ----- | ----- |
+| 0.3.1 | [1.8.14](https://github.com/tdlib/td/tree/8517026415e75a8eec567774072cbbbbb52376c1) |
 | 0.3.0 | [1.8.7](https://github.com/tdlib/td/tree/a7a17b34b3c8fd3f7f6295f152746beb68f34d83) |
 | 0.2.2 | [1.8.1](https://github.com/tdlib/td/tree/92c2a9c4e521df720abeaa9872e1c2b797d5c93f) |
 | 0.2.1 | [1.7.9](https://github.com/tdlib/td/tree/7d41d9eaa58a6e0927806283252dc9e74eda5512) |

@@ -43,8 +43,8 @@ if [ ! -d "$TD_DIR" ]; then
 	# - Check the line of `project(TDLib VERSION...
 	# - Click left commit link
 	# - Copy and paste the commit hash, e.q. git checkout <hash>
-	# git checkout tags/v1.8.7
-	git checkout a7a17b34b3c8fd3f7f6295f152746beb68f34d83
+	# git checkout tags/v1.8.14
+	git checkout 8517026415e75a8eec567774072cbbbbb52376c1
 	cd ..
 fi
 if [ ! -d "$INSTALL_ROOT_DIR/openssl" ]; then
